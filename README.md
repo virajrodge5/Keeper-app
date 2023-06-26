@@ -1,4 +1,4 @@
-# keeper-app
+# Keeper-app
 Keep all your notes and lists on the website.
 
 This website is heavily inspired from Google Keep Notes.
